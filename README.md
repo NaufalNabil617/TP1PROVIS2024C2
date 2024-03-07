@@ -12,7 +12,7 @@ dan serengahn sihir dengan damage 30, lalu tiap monster memiliki damage serangan
 Menggunakan Future dan async-await untuk mengimplementasikan asynchronous programming.
 Fungsi async dan await digunakan untuk memberi jeda (delay) dalam permainan agar tidak berjalan terlalu cepat. Ini memungkinkan pesan-pesan dan aksi dalam permainan untuk ditampilkan dengan jelas dan memberi waktu kepada pengguna untuk membaca pesan dan membuat pilihan. Jadi, ketika ada perintah await Future.delayed(Duration(seconds: 1));, program akan menunggu selama 1 detik sebelum melanjutkan eksekusi. Hal ini membuat alur permainan menjadi lebih mudah dipahami dan dinikmati oleh pengguna.
 
-#Dokumentasi Program
+# Dokumentasi Program
 1. Pilih opsi 2 atau 3 untuk memilih monster mana yang akan diserang lalu pilih 1 untuk menyerang menggunakan serangan biasa
    <img width="464" alt="Tampilan awal asep milih" src="https://github.com/NaufalNabil617/TP1PROVIS2024C2/assets/147363037/82ba8839-2fb8-4a05-8c70-b782950460d6">
 2. Pilih opsi 2 untuk serangan sihir
